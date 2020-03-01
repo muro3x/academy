@@ -35,6 +35,8 @@ Additional **System Operations** courses are also available describing how to de
 [FIWARE Lab](https://account.lab.fiware.org/), as well as cross-functional courses describing how to combine various
 enablers together to create a functioning Smart System.
 
+https://www.sirmotec.com
+
 ## License
 
 [License: CC-BY-4.0](LICENSE) © FIWARE Foundation e.V.
